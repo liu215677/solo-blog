@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [vscode中Git: host key verification failed的解决办法](https://liuruic.cn/solo/articles/2019/05/29/1559100811592.html)
 * [linux部署mysql](https://liuruic.cn/solo/articles/2019/05/25/1558765363956.html)
 
 
