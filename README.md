@@ -10,6 +10,9 @@
 
 ### 最新
 
+* [spring boot 配置log4](https://liuruic.cn/solo/articles/2019/06/04/1559638077062.html)
+* [Cron表达式范例](https://liuruic.cn/solo/articles/2019/06/04/1559636826047.html)
+* [java 字符串转json ，json转对象，对象转json](https://liuruic.cn/solo/articles/2019/06/04/1559636578782.html)
 * [powerdesigner设置字体大小](https://liuruic.cn/solo/articles/2019/06/04/1559616404173.html)
 * [vscode中Git: host key verification failed的解决办法](https://liuruic.cn/solo/articles/2019/05/29/1559100811592.html)
 * [linux部署mysql](https://liuruic.cn/solo/articles/2019/05/25/1558765363956.html)
