@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [springBoot tomact相关配置](https://liuruic.cn/solo/articles/2019/06/05/1559728880057.html)
 * [spring boot 配置log4](https://liuruic.cn/solo/articles/2019/06/04/1559638077062.html)
 * [Cron表达式范例](https://liuruic.cn/solo/articles/2019/06/04/1559636826047.html)
 * [java 字符串转json ，json转对象，对象转json](https://liuruic.cn/solo/articles/2019/06/04/1559636578782.html)
