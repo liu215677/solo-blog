@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [springBoot vue websocket](https://liuruic.cn/solo/articles/2019/06/06/1559817181084.html)
 * [springBoot tomact相关配置](https://liuruic.cn/solo/articles/2019/06/05/1559728880057.html)
 * [spring boot 配置log4](https://liuruic.cn/solo/articles/2019/06/04/1559638077062.html)
 * [Cron表达式范例](https://liuruic.cn/solo/articles/2019/06/04/1559636826047.html)
