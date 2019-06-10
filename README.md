@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [springBoot @Scheduled 定时器失效](https://liuruic.cn/solo/articles/2019/06/10/1560137465984.html)
+* [springBoot Path with "WEB-INF" or "META-INF"](https://liuruic.cn/solo/articles/2019/06/10/1560136454641.html)
 * [springBoot vue websocket](https://liuruic.cn/solo/articles/2019/06/06/1559817181084.html)
 * [springBoot tomact相关配置](https://liuruic.cn/solo/articles/2019/06/05/1559728880057.html)
 * [spring boot 配置log4](https://liuruic.cn/solo/articles/2019/06/04/1559638077062.html)
