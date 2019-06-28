@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [百度地图轨迹 vue 实现](http://liuruic.cn/solo/articles/2019/06/27/1561628674346.html)
 * [unkown the request](http://liuruic.cn/solo/articles/2019/06/17/1560762168436.html)
 * [springBoot @Scheduled 定时器失效](http://liuruic.cn/solo/articles/2019/06/10/1560137465984.html)
 * [springBoot Path with "WEB-INF" or "META-INF"](http://liuruic.cn/solo/articles/2019/06/10/1560136454641.html)
