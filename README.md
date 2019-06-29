@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [解决浏览器自动填充密码问题vue下](http://liuruic.cn/solo/articles/2019/06/28/1561704848465.html)
 * [百度地图轨迹 vue 实现](http://liuruic.cn/solo/articles/2019/06/27/1561628674346.html)
 * [unkown the request](http://liuruic.cn/solo/articles/2019/06/17/1560762168436.html)
 * [springBoot @Scheduled 定时器失效](http://liuruic.cn/solo/articles/2019/06/10/1560137465984.html)
