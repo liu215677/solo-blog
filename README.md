@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [element  el-autocomplete 选择数据后不回显问题](http://liuruic.cn/solo/articles/2019/08/14/1565774493875.html)
 * [vue props 组件传参失败](http://liuruic.cn/solo/articles/2019/07/19/1563501030988.html)
 * [记一次 cnpm install 失效问题](http://liuruic.cn/solo/articles/2019/07/08/1562552909124.html)
 * [解决浏览器自动填充密码问题vue下](http://liuruic.cn/solo/articles/2019/06/28/1561704848465.html)
